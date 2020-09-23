@@ -1,4 +1,4 @@
-elastic blockchain explorer
+xel blockchain explorer
 =======
 
 # installation
